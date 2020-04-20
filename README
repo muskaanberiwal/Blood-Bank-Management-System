@@ -1,0 +1,2 @@
+This project is a database management system for a blood bank to make the process of requesting for/ donation of blood smoother. It keeps track of all requests, donations, fulfilled and unfulfilled requests and gives total transparency to avoid any misuse.  
+To run this project, donwload the file muskaan's dbms and run it on netbeans. 
